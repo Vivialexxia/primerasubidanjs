@@ -52,6 +52,5 @@ else {
 
 /* Para Ejecutar este programa se debe hacer asi: node Index inscribir --Id 99999 --Nombre 'vivian' --Curso 1 */
 
-ig
 
 

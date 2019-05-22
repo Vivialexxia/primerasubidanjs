@@ -13,4 +13,5 @@ let oferta = (nota_uno,nota_dos,nota_tres)=>{
         console.log('El promedio 2 es'+ resultado);
     
 }, 2000);
+
 }

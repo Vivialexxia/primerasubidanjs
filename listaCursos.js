@@ -32,9 +32,6 @@ let listar = () => {
 }
 
 
-
-
-
 module.exports = {
     listar
 };

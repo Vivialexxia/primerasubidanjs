@@ -65,7 +65,6 @@ let cursos = {
     ]
 
 };
-
 module.exports = {
     cursos
 };
