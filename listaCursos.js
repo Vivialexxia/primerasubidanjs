@@ -22,12 +22,11 @@ let listar = () => {
         if (count == traecurso.length) {
             clearInterval(intervalObjet);
             process.stdout.write('\n \n');
-            process.exit();
+            //process.exit();
         }
 
 
     }, 2000);
-
 
 }
 
